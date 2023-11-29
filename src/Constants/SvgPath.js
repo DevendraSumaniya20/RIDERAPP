@@ -1,20 +1,39 @@
+import SearchIcon from '../assets/Svgs/Search.svg';
+import PlusIcon from '../assets/Svgs/PlusIcon.svg';
+import MinusIcon from '../assets/Svgs/MinusIcon.svg';
+import AllIcon from '../assets/Svgs/All.svg';
+import BicycleIcon from '../assets/Svgs/Electric.svg';
+import DriverIcon from '../assets/Svgs/Road.svg';
+import MountainIcon from '../assets/Svgs/Mountain.svg';
+import HelmentIcon from '../assets/Svgs/Accessory.svg';
+import BicycleTabIcon from '../assets/Svgs/Bicycle.svg';
+import OrangeBicycle from '../assets/Svgs/OrangeBlackBicycle.svg';
+import HelmentImage from '../assets/Svgs/helment.svg';
+import WhiteBicycle from '../assets/Svgs/WhiteBicycle.svg';
+import BlackBicycle from '../assets/Svgs/BlackBicycle.svg';
+import MapIcon from '../assets/Svgs/map.fill.svg';
+import CartIcon from '../assets/Svgs/cart.fill.svg';
+import PersonIcon from '../assets/Svgs/person.fill.svg';
+import DocsIcon from '../assets/Svgs/doc.text.fill.svg';
+import heartIcon from '../assets/Svgs/Heart.svg';
+
 export default {
-  SearchIcon: require('../assets/Svgs/Search.svg'),
-  PlusIcon: require('../assets/Svgs/PlusIcon.svg'),
-  MinusIcon: require('../assets/Svgs/MinusIcon.svg'),
-  AllIcon: require('../assets/Svgs/All.svg'),
-  BicycleIcon: require('../assets/Svgs/Electric.svg'),
-  DriverIcon: require('../assets/Svgs/Road.svg'),
-  MountainIcon: require('../assets/Svgs/Mountain.svg'),
-  HelmentIcon: require('../assets/Svgs/Accessory.svg'),
-  BicycleTabIcon: require('../assets/Svgs/Bicycle.svg'),
-  OrangeBicycle: require('../assets/Svgs/OrangeBlackBicycle.svg'),
-  HelmentImage: require('../assets/Svgs/helment.svg'),
-  WhiteBicycle: require('../assets/Svgs/WhiteBicycle.svg'),
-  BlackBicycle: require('../assets/Svgs/BlackBicycle.svg'),
-  MapIcon: require('../assets/Svgs/map.fill.svg'),
-  CartIcon: require('../assets/Svgs/cart.fill.svg'),
-  PersonIcon: require('../assets/Svgs/person.fill.svg'),
-  DocsIcon: require('../assets/Svgs/doc.text.fill.svg'),
-  heartIcon: require('../assets/Svgs/Heart.svg'),
+  SearchIcon,
+  PlusIcon,
+  MinusIcon,
+  AllIcon,
+  BicycleIcon,
+  DriverIcon,
+  MountainIcon,
+  HelmentIcon,
+  BicycleTabIcon,
+  OrangeBicycle,
+  HelmentImage,
+  WhiteBicycle,
+  BlackBicycle,
+  MapIcon,
+  CartIcon,
+  PersonIcon,
+  DocsIcon,
+  heartIcon,
 };
